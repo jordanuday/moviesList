@@ -1,0 +1,45 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 3rem;
+    margin: 30px;
+    border-radius: 14px;
+    align-items: flex-start;
+    background-color: rgb(225, 230, 236);
+    border: 2px solid rgb(64, 65, 65);
+    box-shadow: 3px 6px 3px 6px rgb(147, 154, 160);
+
+}
+
+.contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+    margin-left: 15px;
+    font-family: monospace;
+}
+
+.image {
+    width: 250px;
+    height: 400px;
+}
+
+.heading {
+    font-size: 40px;
+    color: rgb(91, 89, 86);
+}
+
+.description {
+    align-items: flex-start;
+    font-size: 28px;
+    color: rgb(90, 94, 97);
+
+}
+
+.para1 {
+    font-size: 20px;
+    color: rgb(90, 95, 98);
+}

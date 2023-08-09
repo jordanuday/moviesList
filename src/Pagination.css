@@ -1,0 +1,29 @@
+.pagination {
+    display: flex;
+
+    justify-content: center;
+    margin-top: 1rem;
+  }
+
+
+  .button {
+    font-family: monospace;
+    border-radius: 25px;
+    font-size: 25px;
+    padding: 10px 20px;
+    background: #363737;
+    border: unset;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 0 2px #000;
+    outline: 0;
+    position: relative;
+  }
+  
+
+  span {
+    margin: 5px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }

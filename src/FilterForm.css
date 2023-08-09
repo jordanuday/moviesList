@@ -1,0 +1,39 @@
+.filter-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 20px;
+    background-color: #efeeee;
+    color: rgb(51, 55, 59);
+
+}
+
+.label-name {
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 400;
+    margin-right: 5px;
+}
+
+
+  input {
+    font-size: 20px;
+    margin-top: 5px;
+    height: 30px;
+    width: 40px;
+  }
+
+.button {
+    font-family: monospace;
+    margin-left: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #363737;
+}
+
+.option {
+    height: 40px;
+    font-size: 24px;
+}
