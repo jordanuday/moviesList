@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vendomart/static/css/main.21a54aa2.css",
+    "main.js": "/vendomart/static/js/main.0789e8cc.js",
+    "static/js/787.c8972871.chunk.js": "/vendomart/static/js/787.c8972871.chunk.js",
+    "index.html": "/vendomart/index.html",
+    "main.21a54aa2.css.map": "/vendomart/static/css/main.21a54aa2.css.map",
+    "main.0789e8cc.js.map": "/vendomart/static/js/main.0789e8cc.js.map",
+    "787.c8972871.chunk.js.map": "/vendomart/static/js/787.c8972871.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a54aa2.css",
+    "static/js/main.0789e8cc.js"
+  ]
+}
